@@ -35,4 +35,5 @@ int main() {
     b.run(); //这里调用的是Animal的run方法
     c->run(); //这里调用的也是Animal的run方法
     return 0;
+    A
 }
